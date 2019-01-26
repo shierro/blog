@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog",
+    "description": "",
+    "home_page_url": "https://shierro.github.io/blog",
+    "feed_url": "https://shierro.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Theo"
+    },
+    "items": [
+        {
+            "id": "https://shierro.github.io/blog/hello-world-publii.html",
+            "url": "https://shierro.github.io/blog/hello-world-publii.html",
+            "title": "Hello World! - Publii",
+            "summary": "This is my first post!",
+            "content_html": "This is my first post!",
+            "image": "https://shierro.github.io/blog/media/posts/1/",
+            "author": {
+                "name": "Theo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-26T22:03:20+08:00",
+            "date_modified": "2019-01-26T22:03:31+08:00"
+        }
+    ]
+}
