@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Blog",
+    "title": "Theo&#x27;s blog",
     "description": "",
     "home_page_url": "https://blog.theocraft.tech",
     "feed_url": "https://blog.theocraft.tech/feed.json",
@@ -16,7 +16,7 @@
             "title": "Theo&#x27;s Blog",
             "summary": "Hello there! We will be adding more content soon. Stay tuned!",
             "content_html": "Hello there! We will be adding more content soon. Stay tuned!",
-            "image": "https://blog.theocraft.tech/media/posts/1/TC.png",
+            "image": "https://blog.theocraft.tech/media/posts/1/hugues-de-buyer-mimeure-335733-unsplash.jpg",
             "author": {
                 "name": "Theo"
             },
@@ -24,7 +24,7 @@
                    "tech"
             ],
             "date_published": "2019-01-26T22:03:20+08:00",
-            "date_modified": "2019-01-26T22:43:50+08:00"
+            "date_modified": "2019-01-26T22:48:17+08:00"
         }
     ]
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Blog</title>
+    <title>Theo&#x27;s blog</title>
     <link href="https://blog.theocraft.tech/feed.xml" rel="self" />
     <link href="https://blog.theocraft.tech" />
-    <updated>2019-01-26T22:43:54+08:00</updated>
+    <updated>2019-01-26T22:49:37+08:00</updated>
     <author>
         <name>Theo</name>
     </author>
@@ -18,16 +18,16 @@
         <id>https://blog.theocraft.tech/hello/</id>
             <category term="tech"/>
 
-        <updated>2019-01-26T22:43:50+08:00</updated>
+        <updated>2019-01-26T22:48:17+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.theocraft.tech/media/posts/1/TC.png" alt="TheoCraft" />
+                        <img src="https://blog.theocraft.tech/media/posts/1/hugues-de-buyer-mimeure-335733-unsplash.jpg" alt="TheoCraft" />
                     Hello there! We will be adding more content soon. Stay tuned!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blog.theocraft.tech/media/posts/1/TC.png" alt="TheoCraft" />
+                    <img src="https://blog.theocraft.tech/media/posts/1/hugues-de-buyer-mimeure-335733-unsplash.jpg" alt="TheoCraft" />
                 Hello there! We will be adding more content soon. Stay tuned!
             ]]>
         </content>
