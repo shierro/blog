@@ -5,14 +5,14 @@
     "home_page_url": "https://blog.theocraft.tech",
     "feed_url": "https://blog.theocraft.tech/feed.json",
     "user_comment": "",
-    "icon": "https://blog.theocraft.tech/media/website/favicon.png",
+    "icon": "https://blog.theocraft.tech/media/website/48x48.png",
     "author": {
         "name": "Theo"
     },
     "items": [
         {
-            "id": "https://blog.theocraft.tech/hello-world-publii/index.html",
-            "url": "https://blog.theocraft.tech/hello-world-publii/index.html",
+            "id": "https://blog.theocraft.tech/hello-world-publii/",
+            "url": "https://blog.theocraft.tech/hello-world-publii/",
             "title": "Theo",
             "summary": "Hello there! We will be adding more content soon. Stay tuned!",
             "content_html": "Hello there! We will be adding more content soon. Stay tuned!",
