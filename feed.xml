@@ -3,30 +3,31 @@
     <title>Blog</title>
     <link href="https://blog.theocraft.tech/feed.xml" rel="self" />
     <link href="https://blog.theocraft.tech" />
-    <updated>2019-01-26T22:40:44+08:00</updated>
+    <updated>2019-01-26T22:43:54+08:00</updated>
     <author>
         <name>Theo</name>
     </author>
     <id>https://blog.theocraft.tech</id>
 
     <entry>
-        <title>Theo</title>
+        <title>Theo&#x27;s Blog</title>
         <author>
             <name>Theo</name>
         </author>
-        <link href="https://blog.theocraft.tech/hello-world-publii/"/>
-        <id>https://blog.theocraft.tech/hello-world-publii/</id>
+        <link href="https://blog.theocraft.tech/hello/"/>
+        <id>https://blog.theocraft.tech/hello/</id>
+            <category term="tech"/>
 
-        <updated>2019-01-26T22:14:21+08:00</updated>
+        <updated>2019-01-26T22:43:50+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.theocraft.tech/media/posts/1/" alt="" />
+                        <img src="https://blog.theocraft.tech/media/posts/1/TC.png" alt="TheoCraft" />
                     Hello there! We will be adding more content soon. Stay tuned!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blog.theocraft.tech/media/posts/1/" alt="" />
+                    <img src="https://blog.theocraft.tech/media/posts/1/TC.png" alt="TheoCraft" />
                 Hello there! We will be adding more content soon. Stay tuned!
             ]]>
         </content>

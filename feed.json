@@ -11,19 +11,20 @@
     },
     "items": [
         {
-            "id": "https://blog.theocraft.tech/hello-world-publii/",
-            "url": "https://blog.theocraft.tech/hello-world-publii/",
-            "title": "Theo",
+            "id": "https://blog.theocraft.tech/hello/",
+            "url": "https://blog.theocraft.tech/hello/",
+            "title": "Theo&#x27;s Blog",
             "summary": "Hello there! We will be adding more content soon. Stay tuned!",
             "content_html": "Hello there! We will be adding more content soon. Stay tuned!",
-            "image": "https://blog.theocraft.tech/media/posts/1/",
+            "image": "https://blog.theocraft.tech/media/posts/1/TC.png",
             "author": {
                 "name": "Theo"
             },
             "tags": [
+                   "tech"
             ],
             "date_published": "2019-01-26T22:03:20+08:00",
-            "date_modified": "2019-01-26T22:14:21+08:00"
+            "date_modified": "2019-01-26T22:43:50+08:00"
         }
     ]
 }
