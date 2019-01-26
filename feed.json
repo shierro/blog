@@ -2,27 +2,28 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Blog",
     "description": "",
-    "home_page_url": "https://shierro.github.io/blog",
-    "feed_url": "https://shierro.github.io/blog/feed.json",
+    "home_page_url": "https://blog.theocraft.tech",
+    "feed_url": "https://blog.theocraft.tech/feed.json",
     "user_comment": "",
+    "icon": "https://blog.theocraft.tech/media/website/favicon.png",
     "author": {
         "name": "Theo"
     },
     "items": [
         {
-            "id": "https://shierro.github.io/blog/hello-world-publii.html",
-            "url": "https://shierro.github.io/blog/hello-world-publii.html",
-            "title": "Hello World! - Publii",
-            "summary": "This is my first post!",
-            "content_html": "This is my first post!",
-            "image": "https://shierro.github.io/blog/media/posts/1/",
+            "id": "https://blog.theocraft.tech/hello-world-publii/index.html",
+            "url": "https://blog.theocraft.tech/hello-world-publii/index.html",
+            "title": "Theo",
+            "summary": "Hello there! We will be adding more content soon. Stay tuned!",
+            "content_html": "Hello there! We will be adding more content soon. Stay tuned!",
+            "image": "https://blog.theocraft.tech/media/posts/1/",
             "author": {
                 "name": "Theo"
             },
             "tags": [
             ],
             "date_published": "2019-01-26T22:03:20+08:00",
-            "date_modified": "2019-01-26T22:03:31+08:00"
+            "date_modified": "2019-01-26T22:14:21+08:00"
         }
     ]
 }

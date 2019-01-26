@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Blog</title>
-    <link href="https://shierro.github.io/blog/feed.xml" rel="self" />
-    <link href="https://shierro.github.io/blog" />
-    <updated>2019-01-26T22:05:54+08:00</updated>
+    <link href="https://blog.theocraft.tech/feed.xml" rel="self" />
+    <link href="https://blog.theocraft.tech" />
+    <updated>2019-01-26T22:28:25+08:00</updated>
     <author>
         <name>Theo</name>
     </author>
-    <id>https://shierro.github.io/blog</id>
+    <id>https://blog.theocraft.tech</id>
 
     <entry>
-        <title>Hello World! - Publii</title>
+        <title>Theo</title>
         <author>
             <name>Theo</name>
         </author>
-        <link href="https://shierro.github.io/blog/hello-world-publii.html"/>
-        <id>https://shierro.github.io/blog/hello-world-publii.html</id>
+        <link href="https://blog.theocraft.tech/hello-world-publii/index.html"/>
+        <id>https://blog.theocraft.tech/hello-world-publii/index.html</id>
 
-        <updated>2019-01-26T22:03:31+08:00</updated>
+        <updated>2019-01-26T22:14:21+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://shierro.github.io/blog/media/posts/1/" alt="" />
-                    This is my first post!
+                        <img src="https://blog.theocraft.tech/media/posts/1/" alt="" />
+                    Hello there! We will be adding more content soon. Stay tuned!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://shierro.github.io/blog/media/posts/1/" alt="" />
-                This is my first post!
+                    <img src="https://blog.theocraft.tech/media/posts/1/" alt="" />
+                Hello there! We will be adding more content soon. Stay tuned!
             ]]>
         </content>
     </entry>
