@@ -3,23 +3,24 @@
     <title>Theo&#x27;s blog</title>
     <link href="https://blog.theocraft.tech/feed.xml" rel="self" />
     <link href="https://blog.theocraft.tech" />
-    <updated>2019-01-28T12:23:06+08:00</updated>
+    <updated>2019-01-28T12:31:57+08:00</updated>
     <author>
         <name>Theo</name>
     </author>
     <id>https://blog.theocraft.tech</id>
 
     <entry>
-        <title>RareBirds PH Summit</title>
+        <title>RareBirds 1st 2019 PH Summit</title>
         <author>
             <name>Theo</name>
         </author>
-        <link href="https://blog.theocraft.tech/rarebirds-ph-summit/"/>
-        <id>https://blog.theocraft.tech/rarebirds-ph-summit/</id>
+        <link href="https://blog.theocraft.tech/rarebirds-1st-2019-ph-summit/"/>
+        <id>https://blog.theocraft.tech/rarebirds-1st-2019-ph-summit/</id>
             <category term="tech"/>
+            <category term="summit"/>
             <category term="events"/>
 
-        <updated>2019-01-28T12:07:22+08:00</updated>
+        <updated>2019-01-28T12:31:53+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.theocraft.tech/media/posts/2/Image-from-iOS.jpg" alt="Rarebirds Philippine Team" />
