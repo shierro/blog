@@ -3,7 +3,7 @@
     <title>Theo&#x27;s blog</title>
     <link href="https://blog.theocraft.tech/feed.xml" rel="self" />
     <link href="https://blog.theocraft.tech" />
-    <updated>2019-01-28T14:20:52+08:00</updated>
+    <updated>2019-01-28T14:26:04+08:00</updated>
     <author>
         <name>Theo</name>
     </author>
@@ -20,16 +20,16 @@
             <category term="summit"/>
             <category term="events"/>
 
-        <updated>2019-01-28T12:31:53+08:00</updated>
+        <updated>2019-01-28T14:25:25+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.theocraft.tech/media/posts/2/Image-from-iOS.jpg" alt="Rarebirds Philippine Team" />
+                        <img src="https://blog.theocraft.tech/media/posts/2/Image-from-iOS-1.jpg" alt="Rarebirds Philippine Team" />
                     Hi! Today, we are having our 1st PH summit for 2019, how exciting is it??? To have an awesome kick-off this year and promote collaboration, the PH team decided to have our first 3-day summit! The venue for this event is here in Sharvd Coworking&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blog.theocraft.tech/media/posts/2/Image-from-iOS.jpg" alt="Rarebirds Philippine Team" />
+                    <img src="https://blog.theocraft.tech/media/posts/2/Image-from-iOS-1.jpg" alt="Rarebirds Philippine Team" />
                 <p><strong>Hi! Today, we are having our 1st PH summit for 2019, how exciting is it???</strong></p>
 <p>To have an awesome kick-off this year and promote collaboration, the PH team decided to have our first 3-day summit! <br><br>The venue for this event is here in <strong>Sharvd Coworking Space</strong>, Makati Philippines which has a nice place to collaborate. </p>
 <h2 id="mcetoc_1d298v8o41">Day one</h2>
@@ -47,29 +47,6 @@
 <p>This is almost all of the dev team! They are busy multi-tasking (evaluating &amp; story-telling)</p>
 <p> </p>
 <p>I will be sending more updates this afternoon! </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Theo&#x27;s Blog</title>
-        <author>
-            <name>Theo</name>
-        </author>
-        <link href="https://blog.theocraft.tech/hello/"/>
-        <id>https://blog.theocraft.tech/hello/</id>
-            <category term="tech"/>
-
-        <updated>2019-01-26T22:48:17+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.theocraft.tech/media/posts/1/hugues-de-buyer-mimeure-335733-unsplash.jpg" alt="TheoCraft" />
-                    Hello there! We will be adding more content soon. Stay tuned!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.theocraft.tech/media/posts/1/hugues-de-buyer-mimeure-335733-unsplash.jpg" alt="TheoCraft" />
-                Hello there! We will be adding more content soon. Stay tuned!
             ]]>
         </content>
     </entry>
